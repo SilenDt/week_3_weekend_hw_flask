@@ -1,0 +1,30 @@
+body {
+    background-color: rgb(102, 153, 155);
+    font-family: fantasy;
+
+}
+
+h1 {
+    text-align: center;
+}
+
+.nav-link {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+body > hr {
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+}
+
+.form-inline {
+    color: rgb(227, 206, 113);
+}
+
+#delete-button {
+    background-color: rgb(207, 60, 60);
+}
+
+
